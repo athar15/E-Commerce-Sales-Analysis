@@ -139,8 +139,8 @@ Some regions experience longer delivery times, which may indicate logistical cha
 Delayed deliveries reveal opportunities to optimize supply chain operations.
 
 **📊 Example Dashboard**
-images/dashboard_page1.png
-images/dashboard_page2.png
+Example: ![Dashboard Preview](https://github.com/athar15/E-Commerce-Sales-Analysis/blob/main/e-commerce%20dashboard%20pg1.png)
+
 
 **📁 Project Structure**
 
