@@ -1,4 +1,4 @@
-📊 E-Commerce Sales Analytics Dashboard
+📊 Brazilian E-Commerce Sales Performance Dashboard
 End-to-End Data Analytics Project using MYSQL & Power BI
 
 📌 **Project Overview**
